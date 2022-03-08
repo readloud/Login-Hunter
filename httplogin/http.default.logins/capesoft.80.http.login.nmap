@@ -1,0 +1,25 @@
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-02-09 16:52 WIB
+--------------- Timing report ---------------
+  hostgroups: min 1, max 100000
+  rtt-timeouts: init 1000, min 100, max 10000
+  max-scan-delay: TCP 1000, UDP 1000, SCTP 1000
+  parallelism: min 0, max 0
+  max-retries: 10, host-timeout: 0
+  min-rate: 0, max-rate: 0
+---------------------------------------------
+NSE: Using Lua 5.3.
+NSE: Arguments from CLI: http-default-accounts.fingerprintfile=/home/hello/toolkit/httplogin/http-default-accounts-fingerprints-nndefaccts.lua
+NSE: Arguments parsed: http-default-accounts.fingerprintfile=/home/hello/toolkit/httplogin/http-default-accounts-fingerprints-nndefaccts.lua
+NSE: Loaded 1 scripts for scanning.
+NSE: Script Pre-scanning.
+NSE: Starting runlevel 1 (of 1) scan.
+Initiating NSE at 16:52
+Completed NSE at 16:52, 0.00s elapsed
+Failed to resolve "capesoft".
+NSE: Script Post-scanning.
+NSE: Starting runlevel 1 (of 1) scan.
+Initiating NSE at 16:52
+Completed NSE at 16:52, 0.00s elapsed
+Read from /usr/bin/../share/nmap: nmap-services.
+WARNING: No targets were specified, so 0 hosts scanned.
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.24 seconds
