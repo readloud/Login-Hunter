@@ -5,10 +5,11 @@ tools:
 ## CloudFlair
 ============
 
+![](https://komarev.com/ghpvc/?username=christophetd&color=red&label=PROFILE+VIEWS&style=social)
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/christophetd/cloudflair)
-[christophetd/cloudflair](https://img.shields.io/hub.docker/image-size/cloudflair)](https://hub.docker.com/r/christophetd/cloudflair/)
+[christophetd/cloudflair](https://img.shields.io/hub.docker/image-size/cloudflair?https://hub.docker.com/r/christophetd/cloudflair/)
 ![MicroBadger Layers](https://img.shields.io/microbadger/layers/christophetd/cloudflair)
-[open an issue](https://github.com/christophetd/cloudflair/issues/new)
+[![open an issues](https://img.shields.io/github/issues/christophetd/cloudflair.svg)](https://github.com/christophetd/cloudflair/issues/new)
 
 CloudFlair is a tool to find origin servers of websites protected by CloudFlare who are publicly exposed and don't restrict network access to the CloudFlare IP ranges as they should.
 
