@@ -6,15 +6,15 @@ tools:
 ============
 
 [![christophetd/cloudflair](https://komarev.com/ghpvc/?username=christophetd&color=red&label=christophetd&style=social)](https://hub.docker.com/r/christophetd/cloudflair/)
+[![open an issues](https://img.shields.io/github/issues/christophetd/cloudflair.svg)](https://github.com/christophetd/cloudflair/issues/new)
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/christophetd/cloudflair)
 ![MicroBadger Layers](https://img.shields.io/microbadger/layers/christophetd/cloudflair)
-[![open an issues](https://img.shields.io/github/issues/christophetd/cloudflair.svg)](https://github.com/christophetd/cloudflair/issues/new)
 
 CloudFlair is a tool to find origin servers of websites protected by CloudFlare who are publicly exposed and don't restrict network access to the CloudFlare IP ranges as they should.
 
 The tool uses Internet-wide scan data from [Censys](https://censys.io) to find exposed IPv4 hosts presenting an SSL certificate associated with the target's domain name. API keys are required and can be retrieved from your [Censys account](https://search.censys.io/account/api).
 
-For more detail about this common misconfiguration and how CloudFlair works, refer to the companion blog post at <https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/>.
+For more detail about this common misconfiguration and how CloudFlair works, refer to the companion blog post at [blog.christophetd](https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data).
 
 [Detail](cloudflair/#README.md)
 
