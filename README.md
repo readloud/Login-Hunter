@@ -5,9 +5,8 @@ tools:
 ## CloudFlair
 ============
 
-![](https://komarev.com/ghpvc/?username=christophetd&color=red&label=PROFILE+VIEWS&style=social)
+[![christophetd/cloudflair](https://komarev.com/ghpvc/?username=christophetd&color=red&label=christophetd&style=social)](https://hub.docker.com/r/christophetd/cloudflair/)
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/christophetd/cloudflair)
-[christophetd/cloudflair](https://img.shields.io/hub.docker/image-size/cloudflair?https://hub.docker.com/r/christophetd/cloudflair/)
 ![MicroBadger Layers](https://img.shields.io/microbadger/layers/christophetd/cloudflair)
 [![open an issues](https://img.shields.io/github/issues/christophetd/cloudflair.svg)](https://github.com/christophetd/cloudflair/issues/new)
 
