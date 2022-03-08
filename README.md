@@ -1,4 +1,4 @@
-# Find Default Login for Web to Access the Web Administrator page.
+# Find Default Login to Access the Web Administrator page.
 
 tools:
 
