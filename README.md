@@ -6,7 +6,7 @@ tools:
 ============
 
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/christophetd/cloudflair)
-[`christophetd/cloudflair`](https://hub.docker.com/r/christophetd/cloudflair/)
+![christophetd/cloudflair](https://hub.docker.com/r/christophetd/cloudflair/)
 ![MicroBadger Layers](https://img.shields.io/microbadger/layers/christophetd/cloudflair)
 [open an issue](https://github.com/christophetd/cloudflair/issues/new)
 
